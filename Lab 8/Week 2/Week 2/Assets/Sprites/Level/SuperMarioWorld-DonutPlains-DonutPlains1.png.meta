@@ -1,0 +1,558 @@
+fileFormatVersion: 2
+guid: eccea01af41cf1d41a34f00a075c3c19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2850012453328453183
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_0
+  - first:
+      213: -3453430041398899658
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_1
+  - first:
+      213: -8835293323456405065
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_2
+  - first:
+      213: -9113603614690929316
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_3
+  - first:
+      213: 7401742691676236366
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_4
+  - first:
+      213: 7417737938454275192
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_5
+  - first:
+      213: -8035182869300490913
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_6
+  - first:
+      213: -1177586168763794811
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_7
+  - first:
+      213: -1662406266031431685
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_8
+  - first:
+      213: -862879854898183575
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_9
+  - first:
+      213: 4981145613804353096
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_10
+  - first:
+      213: 3036365802358260425
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_11
+  - first:
+      213: -2110448603748585555
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_12
+  - first:
+      213: 7722065516297693001
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_13
+  - first:
+      213: -5404040235201448575
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_14
+  - first:
+      213: 6207055392457710513
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_15
+  - first:
+      213: 446002430489934239
+    second: SuperMarioWorld-DonutPlains-DonutPlains1_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 5113
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c10be116c8b278d0800000000000000
+      internalID: -2850012453328453183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoshiCoin
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 134
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c81c5aca3f210d0800000000000000
+      internalID: -3453430041398899658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 138
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b12001a88bb26580800000000000000
+      internalID: -8835293323456405065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 138
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5591a26cc9f58180800000000000000
+      internalID: -9113603614690929316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4aa43013c548b660800000000000000
+      internalID: 7401742691676236366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874618aaa5911f660800000000000000
+      internalID: 7417737938454275192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 146
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d4a0aa0cb4d7090800000000000000
+      internalID: -8035182869300490913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 24
+        width: 50
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58abb6e5e9f58afe0800000000000000
+      internalID: -1177586168763794811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 64
+        width: 29
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff10d01f42fde8e0800000000000000
+      internalID: -1662406266031431685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 83
+        width: 10
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96204fcf75f6604f0800000000000000
+      internalID: -862879854898183575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 115
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846bd456b85902540800000000000000
+      internalID: 4981145613804353096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c245b12c96532a20800000000000000
+      internalID: 3036365802358260425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 76
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafa8d03d2e26b2e0800000000000000
+      internalID: -2110448603748585555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 69
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947a73f7ca94a2b60800000000000000
+      internalID: 7722065516297693001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 68
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18536e4b90ef005b0800000000000000
+      internalID: -5404040235201448575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1Up
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb5d983ef3e32650800000000000000
+      internalID: 6207055392457710513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuperMarioWorld-DonutPlains-DonutPlains1_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f993056f8d4803600800000000000000
+      internalID: 446002430489934239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b6825fc121828a245892880a8334c807
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1Up: 6207055392457710513
+      Coin: -8835293323456405065
+      YoshiCoin: -3453430041398899658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
